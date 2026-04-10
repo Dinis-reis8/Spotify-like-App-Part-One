@@ -33,5 +33,40 @@
     "year": 2021,
     "genre": "Hip-Hop/Pop",
     "fileName": "lil-nas-x-crop.wav"
+  },
+  {
+    "name": "For Ever George",
+    "artist": "Dee Yan-Key",
+    "year": 2018,
+    "genre": "Classical",
+    "fileName": "For-Ever-George-crop.wav"
+  },
+  {
+    "name": "Figaro Jamming",
+    "artist": "Dee Yan-Key",
+    "year": 2018,
+    "genre": "Classical",
+    "fileName": "Figaro-Jamming-crop.wav"
+  },
+  {
+    "name": "Immortal Wolferl",
+    "artist": "Dee Yan-Key",
+    "year": 2018,
+    "genre": "Classical",
+    "fileName": "Immortal-Wolferl-crop.wav"
+  },
+  {
+    "name": "Sleeping Johannes",
+    "artist": "Dee Yan-Key",
+    "year": 2018,
+    "genre": "Classical",
+    "fileName": "Sleeping-Johannes-crop.wav"
+  },
+  {
+    "name": "Italian Nightmare",
+    "artist": "Dee Yan-Key",
+    "year": 2018,
+    "genre": "Classical",
+    "fileName": "Italian-Nightmare-crop.wav"
   }
 ]
