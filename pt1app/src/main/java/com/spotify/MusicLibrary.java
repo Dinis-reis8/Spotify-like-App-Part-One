@@ -18,7 +18,7 @@ public class MusicLibrary {
     // -----------------------------------------------------------------------
     // CONSTANT — change this path to wherever your songs.json file lives
     // -----------------------------------------------------------------------
-    private static final String JSON_PATH = "data/songs.json";
+    private static final String JSON_PATH = "C:\\Users\\816re\\OneDrive\\Desktop\\SJCC\\Java\\GitHub\\SpotifyApp\\pt1app\\data\\songS.json";
 
     private List<Song> songs;
 
@@ -57,7 +57,7 @@ public class MusicLibrary {
         List<Song> results = new ArrayList<>();
         String lowerQuery = query.toLowerCase();
         for (Song song : songs) {
-            if (song.getTitle().toLowerCase().contains(lowerQuery)) {
+            if (song.getName().toLowerCase().contains(lowerQuery)) {
                 results.add(song);
             }
         }

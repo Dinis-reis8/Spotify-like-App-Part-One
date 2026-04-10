@@ -1,0 +1,18 @@
+# Maven build output
+target/
+
+# WAV files are large — don't commit them to Git
+wav/
+*.wav
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
